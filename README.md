@@ -1,4 +1,4 @@
 # DES
 Data Exchange Server
 The project works as a server which exchanges data among different clients.
-This sentence is written in junyu develop branch.
+It can be used in applications such as full-duplex talking, instant messaging.
